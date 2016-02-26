@@ -1,2 +1,3 @@
-# practice-creativecode
-p5js, processing, practice!
+# 概要
+
+主にp5jsを使ったクリエイティブコーディングの練習場。

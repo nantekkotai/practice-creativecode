@@ -1,0 +1,25 @@
+{
+  "name": "practice-creativecode",
+  "version": "1.0.0",
+  "description": "p5js, processing, practice!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nantekkotai/practice-creativecode.git"
+  },
+  "author": "Nobuyuki OSAWA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nantekkotai/practice-creativecode/issues"
+  },
+  "homepage": "https://github.com/nantekkotai/practice-creativecode#readme",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-preset-es2015": "^6.5.0",
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1"
+  }
+}
