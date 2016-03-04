@@ -11,7 +11,7 @@ function draw() {
   // We are going to draw a polygon out of the wave points
   beginShape(); 
   
-  var xoff = 1;       // Option #1: 2D Noise
+  //var xoff = 1;       // Option #1: 2D Noise
   var xoff = yoff; // Option #2: 1D Noise
   
   // Iterate over horizontal pixels
